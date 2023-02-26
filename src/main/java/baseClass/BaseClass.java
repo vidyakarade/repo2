@@ -14,6 +14,9 @@ public class BaseClass
 	}
 	public void CloseBrowswe()
 	{	
+		
+		
+		
 				driver.close();
 	}
 
