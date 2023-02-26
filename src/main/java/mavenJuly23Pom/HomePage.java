@@ -17,10 +17,7 @@ public class HomePage
 		return register.getText();
 	}
 	public WebElement getelement()
-	{
-		
-		
-		
+	{		
 		return register;
 	}
 	
